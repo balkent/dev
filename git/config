@@ -1,0 +1,10 @@
+[user]
+    name = Balkent
+    email = quentin.balcerek@gmail.com
+[alias]
+    st = status
+    df = diff
+    co = checkout
+    ci = commit
+    br = branch -av
+    all = add --all
